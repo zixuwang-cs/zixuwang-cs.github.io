@@ -11,7 +11,7 @@ About Me
 ------
 I am a PhD student at the South China University of Technology (2022~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) and Prof. [Qi Wu](http://www.qi-wu.me/). I received my bachelor degree from Central South University in 2022. I engage in developing an agent which can be reliably in the real world. My research mainly focuses on:
 - **Embodied AI:** Visual Language Navigation
-- **Sim to Real Transfer:** Test-Time Adaptation, Continuous Learning  
+- **Sim to Real Transfer:** Test-Time Adaptation, Continual Learning
 
 Publications
 ------
